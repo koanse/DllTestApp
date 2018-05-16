@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DllTest.dll.config
+bin\Debug\DllTest.dll
+bin\Debug\DllTest.pdb
+obj\Debug\DllTest.dll
+obj\Debug\DllTest.pdb
